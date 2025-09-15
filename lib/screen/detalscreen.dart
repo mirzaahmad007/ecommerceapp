@@ -202,7 +202,7 @@ class _DetalscreenState extends State<Detalscreen> {
           ),
           Positioned(
             top: 180,
-            left: 20,
+            left: 19,
             child: Row(
               children: [
                 Column(
