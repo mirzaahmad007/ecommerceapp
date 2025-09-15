@@ -32,12 +32,12 @@ dependencies:
     sdk: flutter
   firebase_core: ^3.15.2
   url_launcher: ^6.3.2
+  flutter_dotenv: ^6.0.0
   http: ^1.2.2
   firebase_auth: ^5.7.0
   cloud_firestore: ^5.6.12
   flutter_localization: ^0.3.3
   flutter_animate: ^4.5.2
-  flutter_dotenv: ^5.2.1
   provider: ^6.1.5
   dio: ^5.8.0+1
   flutter_rating_bar: ^4.0.1
